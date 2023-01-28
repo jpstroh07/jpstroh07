@@ -10,7 +10,7 @@
 
 ### My GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpstroh07&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpstroh07&theme=dark&count_private=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jpstroh07&theme=dark)
 
