@@ -2,11 +2,15 @@
 
 ### Current projects
 
-- [Fitness Planner](https://github.com/jpstroh07/FitnessPlanner)
+- [Calculator](https://github.com/jpstroh07/calculator)
 
 ### Past projects
 
 - [Lottery](https://github.com/jpstroh07/Lottery)
+
+### Projects on hold
+
+- [Fitness Planner](https://github.com/jpstroh07/FitnessPlanner)
 
 ### My GitHub Stats
 
