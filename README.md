@@ -2,10 +2,11 @@
 
 ### Current projects
 
-- [Calculator](https://github.com/jpstroh07/calculator)
+No current projects
 
 ### Past projects
 
+- [Calculator](https://github.com/jpstroh07/calculator)
 - [Lottery](https://github.com/jpstroh07/Lottery)
 
 ### Projects on hold
