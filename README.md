@@ -2,7 +2,7 @@
 
 ### Current projects
 
-No current projects
+- [Chords Helper](https://github.com/jpstroh07/chordshelper)
 
 ### Past projects
 
