@@ -19,6 +19,6 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jpstroh07&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpstroh07&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpstroh07&theme=dark&langs_count=10&hide_progress=true)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jpstroh07&color=0c31c7)
