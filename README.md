@@ -2,16 +2,17 @@
 
 ### Current projects
 
-- [Chords Helper](https://github.com/jpstroh07/chordshelper)
+- [Fitness App](https://github.com/jpstroh07/johnreedfitness)
 
 ### Past projects
 
 - [Calculator](https://github.com/jpstroh07/calculator)
 - [Lottery](https://github.com/jpstroh07/Lottery)
+- [Fitness Planner](https://github.com/jpstroh07/FitnessPlanner)
 
 ### Projects on hold
 
-- [Fitness Planner](https://github.com/jpstroh07/FitnessPlanner)
+- [Chords Helper](https://github.com/jpstroh07/chordshelper)
 
 ### My GitHub Stats
 
